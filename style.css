@@ -13,6 +13,7 @@ h1{
   color:#e2dbdb;
   animation: bounce;
   animation-duration: 3s;
+  animation-delay: 1s;
 }
 
 .buffer{
