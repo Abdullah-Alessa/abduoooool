@@ -11,6 +11,9 @@ body,html {
 h1{
   font-size: 3rem;
   color:#e2dbdb;
+  animation: bounce;
+  animation-duration: 3s;
+  animation-delay: 1s;
 }
 
 .buffer{
